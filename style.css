@@ -1,0 +1,39 @@
+.heading{
+    width: 100%;
+}
+
+.heading h3{
+    display: inline;
+    font-size: 40px;
+}
+
+.heading button{
+    float: right;
+    border-color: white;
+}
+
+.mario{
+    width: 100%;
+}
+
+#start, #status{
+    font-size: 30px;
+}
+
+#footer{
+    bottom: 0;
+    position: sticky;
+    background-color: #8e96a3;
+    line-height: 3;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.modal-dialog{
+    width: 90%;
+}
+
+.image{
+    display: inline-block;
+    width: 38%;
+}
